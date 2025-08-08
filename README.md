@@ -26,4 +26,5 @@ Top 5 Countries (2022/2028): The project specifically highlights the top 5 count
 Net Value: The project determines which countries were net buyers and net sellers during the analyzed periods.
 
 How to View
-To view the full analysis, open the 
+To view the full analysis, open the excel project.xlsx file
+
