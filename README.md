@@ -26,4 +26,8 @@ This project analyzes football transfer data to explore transfer activity across
 
 ### How to View
 
-To view the full analysis, open the `excel project.xlsx` file. The final table and chart can be found in `Sheet2`.
+To view the full analysis, please note that GitHub's preview for .xlsx files does not display charts, formulas, or full datasets.
+
+  * To see the complete dataset, charts, formulas, and results, you must download the excel project.xlsx file.
+
+  * For a brief preview of the visualizations and key findings, please see the attached PDF file that accompanies this repository.
